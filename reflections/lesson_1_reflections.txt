@@ -1,0 +1,28 @@
+
+Hello !
+I like the FC command rather than diff because it is more easy in windows
+rather in Unix or Mac. Moreover, on typing diff the whole file was displayed 
+in git bash while in cmd this was not the case.
+
+Having all the old versions of your program makes you a better program since
+you can easily compare your old features with the new ones and you dont have
+the risk of messing up everthing even if your new verion fails because you can 
+always go back to your previous version.
+
+When you commit yourself like in git you have more control over what you are doing
+and you can make a singe commit per logical change. While in google docs the whole 
+documnet is saved every second and the history makes it difficult to understand the 
+changes we made.
+
+		The benefit of the changes saved in google docs over the commits you
+make in git is that in google docs you dont have to worry about saving the file. It will automatically do for you and if in any case you forget to save it manually it will be 
+saved automatically and there would be no loss of changes while un gut uf you forgot to 
+save the changes you are screwed.
+
+Git allows to commit over multiple files so that same feature is updated in every file
+and we dont have to do it manually in each separate file. While in docs, each file is 
+treated separately
+
+To use git log just type the command  and when you want to quit press q and for git diff
+you can type 4 or more digits to compare the different ids and to quit press q.
+
