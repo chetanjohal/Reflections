@@ -1,0 +1,6 @@
+We need to intialize the repository by git init. When we initialize the repository we can
+commit, push files through git.
+
+Staging area is different from working directory as working directory is the directory in 
+which you are working while staging area creates a stage for adding files before actually 
+committing it.
