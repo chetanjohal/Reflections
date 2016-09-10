@@ -23,6 +23,5 @@ Git allows to commit over multiple files so that same feature is updated in ever
 and we dont have to do it manually in each separate file. While in docs, each file is 
 treated separately
 
-To use git log just type the command  and when you want to quit press q and for git diff
-you can type 4 or more digits to compare the different ids and to quit press q.
+To use git log just type the command  and when you want to quit press q and for git diff you can type 4 or more digits to compare the different ids and to quit press q.
 
